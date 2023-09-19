@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [My own tools for at home or in the office](https://github.com/hetgameboekje/Python-projects)
 
-- 🌱 I’m currently learning **Java , PHP and C# (android, webserver & windows applications)**
+- 🌱 I’m currently learning **PHP and C# (webserver & windows applications)**
 
 - 🤝 I’m looking for help with [Personal Journal Page](https://github.com/hetgameboekje/logboekwebsite)
 
