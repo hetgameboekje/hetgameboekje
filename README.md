@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bergthaler-ict.nl](https://bergthaler-ict.nl)
 
-- 📫 How to reach me **Timo@bergthaler.nl**
+- 📫 How to reach me **github@bergthaler.nl**
 
 - ⚡ Fun fact **In personal projects i use funny file names , and even folder names such as hap.py or grum.py**
 
